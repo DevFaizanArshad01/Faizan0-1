@@ -28,7 +28,7 @@
 
 
 <div>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan0-1&" alt="faizan0-1" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan0-1&" alt="faizan0-1" width="500" height="600" /></p>
 </div>
 
 <div>
