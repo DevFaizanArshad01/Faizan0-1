@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **WEB DEVELOPMENT AND APP DEVELOPMENT PROJECTS**
 
-- 🌱 I’m currently learning **MERN STACK AND PROJECT MANAGEMENT**
+- 🌱 I’m currently learning **ARTIFICAL INTELLIGENCE AND PROJECT MANAGEMENT**
 
 - 💬 Ask me about **WEBSITE DEVELOPMENT AND DATABASE DEVELOPMENT**
 
