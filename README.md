@@ -23,7 +23,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizan0-1&show_icons=true&locale=en&layout=compact" alt="faizan0-1" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan0-1&show_icons=true&locale=en" alt="faizan0-1" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan0-1&" alt="faizan0-1" /></p>
