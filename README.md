@@ -7,11 +7,11 @@
   
 - 🌱 I’m currently Exploring **the potential of Artificial Intelligence**
 
-- 💬 Ask me about **WEBSITE DEVELOPMENT AND DATABASE DEVELOPMENT**
+- 💬 Ask me about **Website development and Optimizing database structures.**
 
 - 📫 How to reach me **faizan001raja@gmail.com**
 
-- ⚡ Fun fact **I think I am Coder**
+- ⚡ Fun fact **I think I am a magician! 🪄 I turn your ideas into digital solutions.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan0-1&label=Profile%20views&color=0e75b6&style=flat" alt="faizan0-1" /> </p>
 
