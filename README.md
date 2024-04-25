@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Faizan Arshad</h1>
 <h3 align="center">Turning ideas into digital solutions.</h3>
 
-- 🔭 I’m currently working on **WEB DEVELOPMENT AND APP DEVELOPMENT PROJECTS**
-
-- 🌱 I’m currently learning **ARTIFICAL INTELLIGENCE AND PROJECT MANAGEMENT**
+- 🔭 I’m currently working on
+  **Crafting innovative web applications.**
+  **Designing and developing user-friendly mobile apps.**
+  
+- 🌱 I’m currently Exploring **the potential of Artificial Intelligence**
 
 - 💬 Ask me about **WEBSITE DEVELOPMENT AND DATABASE DEVELOPMENT**
 
