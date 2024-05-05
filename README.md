@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **faizan001raja@gmail.com**
 
-- ⚡ Fun fact **They say I do magic 🪄 , but it's mostly just code.**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan0-1&label=Profile%20views&color=0e75b6&style=flat" alt="faizan0-1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan0-1" alt="faizan0-1" /></a> </p>
